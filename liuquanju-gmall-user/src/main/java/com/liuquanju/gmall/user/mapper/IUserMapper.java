@@ -10,6 +10,7 @@ import java.util.List;
 @Repository
 public interface IUserMapper extends Mapper<UmsMember> {
 
+
     List<UmsMember> selectAllUser();
 
 }

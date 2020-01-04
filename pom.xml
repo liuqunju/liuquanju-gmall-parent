@@ -147,6 +147,7 @@
     <modules>
         <module>liuquanju-gmall-user</module>
         <module>liuquanju-gmall-api</module>
+        <module>liuquanju-gmall-common-util</module>
     </modules>
 
 
