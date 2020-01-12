@@ -1,15 +1,15 @@
-package com.liuquanju.gmall.user;
+package com.liuquanju.gmall.manage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import tk.mybatis.spring.annotation.MapperScan;
 
 @SpringBootApplication
-@MapperScan(basePackages = "com.liuquanju.gmall.user.mapper")
-public class LiuquanjuGmallUserServiceApplication {
+@MapperScan(basePackages = "com.liuquanju.gmall.manage.mapper")
+public class LiuquanjuGmallManageApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LiuquanjuGmallUserServiceApplication.class, args);
+        SpringApplication.run(LiuquanjuGmallManageApplication.class, args);
     }
 
 }

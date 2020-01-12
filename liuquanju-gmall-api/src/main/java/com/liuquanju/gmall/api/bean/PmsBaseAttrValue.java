@@ -6,6 +6,7 @@ import javax.persistence.Transient;
 import java.io.Serializable;
 
 /**
+ * 平台属性值
  * @param
  * @return
  */
