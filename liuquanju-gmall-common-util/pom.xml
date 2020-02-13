@@ -61,6 +61,12 @@
         </dependency>
 
         <dependency>
+            <groupId>org.csource</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+            <version>1.29-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>
             <exclusions>
