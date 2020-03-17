@@ -7,3 +7,6 @@ liuquanju-gmall-manage-web 用户访问层:8081
 
 #liuquanju-gmall-item-service 前台的商品详情服务:8060
 liuquanju-gmall-item-web 前台的商品详情展示:8061
+
+liuquanju-gmall-search-service 搜索服务的前台:8050
+liuquanju-gmall-search-web 搜索服务的后台:8051
